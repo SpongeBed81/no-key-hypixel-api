@@ -8,7 +8,6 @@
 
     got
     cheerio
-    node-fetch
     hooman
 
 🖐️ Contact Me
@@ -35,6 +34,7 @@ Output of the code given above.
 
 ```
 {
+  karma: '1,430',
   level: '11',
   parkours_Completed: '0/16',
   friends: '2',
